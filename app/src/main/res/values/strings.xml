@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dharmik Nihilent</string>
+
+    <string name="check_internet">Please check your internet connection.</string>
+    <string name="no_data_found">No data found.</string>
+
+    <string name="like">Like</string>
+    <string name="home">Home</string>
+</resources>
